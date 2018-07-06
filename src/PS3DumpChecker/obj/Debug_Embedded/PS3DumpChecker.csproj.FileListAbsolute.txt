@@ -1,0 +1,12 @@
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\bin\Debug\PS3DumpChecker.exe.config
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\bin\Debug\PS3DumpChecker.exe
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\bin\Debug\PS3DumpChecker.pdb
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.csprojResolveAssemblyReference.cache
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.Simulation.resources
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.MainForm.resources
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.Properties.Resources.resources
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.Settings.resources
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.UpdateForm.resources
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.csproj.GenerateResource.Cache
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.exe
+D:\00\ps3tools\check\PS3DumpChecker-master\src\PS3DumpChecker\obj\Debug_Embedded\PS3DumpChecker.pdb

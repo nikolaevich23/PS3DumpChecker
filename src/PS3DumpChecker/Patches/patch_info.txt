@@ -1,1 +1,0 @@
-﻿noFSM 4.82 (FERROX based)
